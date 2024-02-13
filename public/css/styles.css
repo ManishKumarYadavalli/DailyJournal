@@ -15,6 +15,18 @@
     color: #1abc9c !important;
 }
 
+#btnNewPost{
+    border: none;
+    background-color: #1abc9c;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+#btnNewPost:hover{
+    background-color: #129178;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
